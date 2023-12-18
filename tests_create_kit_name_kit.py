@@ -97,4 +97,4 @@ def test_create_kit_no_name_get_error_response():
 # Проверка с параметром "name" - число
 def test_create_kit_numeric_type_name_get_error_response():
     negative_assert_with_name(123)
-    
+    1

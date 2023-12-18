@@ -23,4 +23,4 @@ def post_new_client_kit(kit_body, auth_token):
 
 response = post_new_client_kit(data.CREATE_KIT, data.AUTH_TOKEN)
 print(response.status_code)
-print(response.json())
+print(response.json())1
