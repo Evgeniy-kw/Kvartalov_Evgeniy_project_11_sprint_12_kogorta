@@ -14,4 +14,4 @@ CREATE_KIT = {
 
 AUTH_TOKEN = {
     "Authorization": "Bearer {authToken}"
-}1
+}
